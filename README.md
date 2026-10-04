@@ -28,6 +28,7 @@ We built this as a hands-on machine learning project to classify dermoscopic ski
 
 We also built a simple Gradio interface so users can upload a skin lesion image and get an instant prediction with confidence score.
 ![Demo Screenshot](demo-screenshot.png)
+<img src="demo-screenshot.png" width="600">
 
 ## Tech Stack
 
